@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MLTU - Machine Learning Training Utilities
 Machine Learning Training Utilities for <b>TensorFlow 2.*</b> and <b>PyTorch</b> with Python 3
 <p align="center">
@@ -28,3 +29,6 @@ Each tutorial has its own requirements.txt file for a specific mltu version. As 
 10. [Speech Recognition in Python | finetune wav2vec2 model for a custom ASR model](https://youtu.be/h6ooEGzjkj0), code in ```Tutorials\10_wav2vec2_torch``` folder;
 11. [YOLOv8: Real-Time Object Detection Simplified](https://youtu.be/vegL__weCxY), code in ```Tutorials\11_Yolov8``` folder;
 12. [YOLOv8: Customizing Object Detector training](https://youtu.be/ysYiV1CbCyY), code in ```Tutorials\11_Yolov8\train_yolov8.py``` folder;
+=======
+# Optical-Character-Recognition
+>>>>>>> f049b95ca3155f6a8be96c9b14111719f9198541
